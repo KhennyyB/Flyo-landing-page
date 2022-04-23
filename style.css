@@ -239,10 +239,10 @@ p {
 }
 
 #testimonials-section {
-          display: grid;
+          display: flex;
           grid-template-columns: repeat(3, 1fr);
           justify-content: space-around;
-          align-items: vertical;
+          align-items: stretch;
           margin: -20px 100px;
           gap: 40px;
           position: relative;
