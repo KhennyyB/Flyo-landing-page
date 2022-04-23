@@ -240,7 +240,7 @@ p {
 
 #testimonials-section {
           display: flex;
-          grid-template-columns: repeat(3, 1fr);
+         
           justify-content: space-around;
           align-items: stretch;
           margin: -20px 100px;
