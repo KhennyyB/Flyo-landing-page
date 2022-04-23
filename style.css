@@ -242,7 +242,7 @@ p {
           display: grid;
           grid-template-columns: repeat(3, 1fr);
           justify-content: space-around;
-          align-items: center;
+          align-items: vertical;
           margin: -20px 100px;
           gap: 40px;
           position: relative;
